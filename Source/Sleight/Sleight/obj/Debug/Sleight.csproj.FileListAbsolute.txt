@@ -1,0 +1,10 @@
+D:\spygu\Documents\GitHub\Sleight\Source\Sleight\Sleight\bin\Debug\Sleight.exe.config
+D:\spygu\Documents\GitHub\Sleight\Source\Sleight\Sleight\bin\Debug\Sleight.exe
+D:\spygu\Documents\GitHub\Sleight\Source\Sleight\Sleight\bin\Debug\Sleight.pdb
+D:\spygu\Documents\GitHub\Sleight\Source\Sleight\Sleight\obj\Debug\Sleight.csproj.AssemblyReference.cache
+D:\spygu\Documents\GitHub\Sleight\Source\Sleight\Sleight\obj\Debug\Sleight.Form1.resources
+D:\spygu\Documents\GitHub\Sleight\Source\Sleight\Sleight\obj\Debug\Sleight.Properties.Resources.resources
+D:\spygu\Documents\GitHub\Sleight\Source\Sleight\Sleight\obj\Debug\Sleight.csproj.GenerateResource.cache
+D:\spygu\Documents\GitHub\Sleight\Source\Sleight\Sleight\obj\Debug\Sleight.csproj.CoreCompileInputs.cache
+D:\spygu\Documents\GitHub\Sleight\Source\Sleight\Sleight\obj\Debug\Sleight.exe
+D:\spygu\Documents\GitHub\Sleight\Source\Sleight\Sleight\obj\Debug\Sleight.pdb
